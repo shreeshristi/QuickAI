@@ -199,32 +199,6 @@ QuickAI/
 └── README.md
 ```
 
-## 🌐 Demo
-
-Visit our live demo: [QuickAI Live Demo](https://quickai.vercel.app)
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💬 Support
-
-- **Documentation**: [Wiki](https://github.com/sourya001/Ai_Task/wiki)
-- **Issues**: [GitHub Issues](https://github.com/sourya001/Ai_Task/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/sourya001/Ai_Task/discussions)
-- **Email**: support@quickai.com
-
 ## 🙏 Acknowledgments
 
 - [OpenAI](https://openai.com) for AI capabilities
@@ -233,15 +207,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vercel](https://vercel.com) for deployment
 - [Neon](https://neon.tech) for database services
 
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/sourya001/Ai_Task?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sourya001/Ai_Task?style=social)
-![GitHub issues](https://img.shields.io/github/issues/sourya001/Ai_Task)
-![GitHub license](https://img.shields.io/github/license/sourya001/Ai_Task)
-
----
-
-**Built with ❤️ by the QuickAI Team**
 
 *Elevating content creation with AI technology*
